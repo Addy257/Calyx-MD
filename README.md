@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@calyx_drey_mobile_hacks"> 
-    <img src="https://github.com/calyxdrey18/Calyx-MD/blob/main/assets/bot_image.jpg" alt="Calyx-MD" height="300"> 
+    <img src="https://github.com/calyxdrey18/Calyx/blob/main/assets/bot_image.jpg" alt="Calyx-MD" height="300"> 
   </a> 
 </div>
 
